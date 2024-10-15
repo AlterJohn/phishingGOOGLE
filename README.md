@@ -25,3 +25,5 @@ Inserir credenciais a serem capturadas.
 Resultado:
 
 Informações impressas no terminal com os campos de USERNAME e PASSWORD.
+
+![Resultado]([URL_da_Imagem](https://github.com/AlterJohn/phishingGOOGLE/blob/main/image.png))
