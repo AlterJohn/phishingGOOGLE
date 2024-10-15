@@ -26,4 +26,4 @@ Resultado:
 
 Informações impressas no terminal com os campos de USERNAME e PASSWORD.
 
-![Resultado]([URL_da_Imagem](https://github.com/AlterJohn/phishingGOOGLE/blob/main/image.png))
+![Resultado](https://github.com/user-attachments/assets/6234ac2f-dd93-4346-bac7-b3c4393b91a3)
