@@ -1,7 +1,9 @@
 Ferramentas utilizadas:
 
 Máquina virtual (VirtualBox)
+
 Kali Linux
+
 Setoolkit (Ferramenta com diversos payloads, disponivel por padrão no Kali Linux)
 
 Configurações iniciais:
@@ -11,11 +13,17 @@ Configurações iniciais:
 Configurando o phishing no kali linux:
 
 Acesso root: sudo su
+
 Obtendo o endereço da máquina: ifconfig
+
 Iniciando o setoolkit: setoolkit
+
 Tipo de ataque: Social-Engineering Attacks
+
 Vetor de ataque: Credential Harvester Attack Method
+
 Vetor de ataque: Web Templates
+
 Select template: Google
 
 Dentro do site clone:
